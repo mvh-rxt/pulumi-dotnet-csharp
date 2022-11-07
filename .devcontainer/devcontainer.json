@@ -1,0 +1,14 @@
+{
+    "name": "Pulumi on Docker",
+    "build":{
+        "dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.dotnet-interactive-vscode"
+			]
+		}
+	}
+    //"remoteUser": "vscode"
+}

@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Pulumi C# in DevContainer"
+		}
+	],
+	"settings": {}
+}
